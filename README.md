@@ -17,9 +17,9 @@ Sharing my progress on GitHub not only serves as a personal log but also allows 
 ## Connect with Me
 I'd love to connect with fellow learners, developers, and Python enthusiasts. If you have questions, suggestions, or just want to say hello, feel free to reach out!
 
-- **GitHub:** [Your GitHub Username](https://github.com/DPICODER)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sai-varun-pannala-25105974/)
-- **Instagram:** [@YourInstaHandle](https://www.instagram.com/sai.varun11/)
+- **GitHub:** [GitHub](https://github.com/DPICODER)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sai-varun-pannala-25105974/)
+- **Instagram:** [Insta](https://www.instagram.com/sai.varun11/)
 
 ## Let's Code Together!
 Whether you're also on a Python learning journey or an experienced developer, let's learn and code together! Feel free to fork this repository, contribute, or simply follow along. Happy coding! 🚀
