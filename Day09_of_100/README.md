@@ -7,7 +7,7 @@ Welcome to the Silent Auction Bidder! This program allows participants to enter 
 To participate in the silent auction, run the provided Python script. Follow the on-screen instructions to enter your name and bid amount. You can continue entering bids or choose to finish the auction.
 
 ```python
-python silent_auction.py
+python Auction_bidder.py
 ```
 
 ### How It Works
