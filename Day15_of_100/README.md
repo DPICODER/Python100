@@ -15,7 +15,7 @@ This is a simple Python program that simulates a coffee maker. Users can select 
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/DPICODER/python100/Day15_of_100/coffee-maker.git
+git clone https://https://github.com/DPICODER/Python100/tree/main/Day15_of_100
 ```
 
 2. Navigate to the project directory.
